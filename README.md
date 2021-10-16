@@ -1,2 +1,11 @@
-# NoTechTree
-Plugin for Rust servers that disallows players from opening the tech tree
+## Features
+
+- Disallows players from opening the tech tree
+
+## Localization
+
+```json
+{
+  "TechTreeDisabled": "The tech tree is disabled on this server."
+}
+```
